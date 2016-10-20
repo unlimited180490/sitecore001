@@ -1,1 +1,2 @@
 test function 2
+TEST FUNCTION 3
